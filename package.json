@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/lfaivre/interview-prep#readme",
   "devDependencies": {
-    "jest": "^26.1.0"
+    "jest": "^26.4.1"
   },
   "jest": {
     "testEnvironment": "node"
