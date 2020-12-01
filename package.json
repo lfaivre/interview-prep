@@ -21,7 +21,7 @@
 	"homepage": "https://github.com/lfaivre/interview-prep#readme",
 	"devDependencies": {
 		"jest": "^26.4.1",
-		"prettier": "2.0.5"
+		"prettier": "2.2.1"
 	},
 	"jest": {
 		"testEnvironment": "node"
