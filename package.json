@@ -20,7 +20,7 @@
 	},
 	"homepage": "https://github.com/lfaivre/interview-prep#readme",
 	"devDependencies": {
-		"jest": "^26.4.1",
+		"jest": "^27.0.6",
 		"prettier": "2.0.5"
 	},
 	"jest": {
